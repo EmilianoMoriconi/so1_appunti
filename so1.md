@@ -1,7 +1,9 @@
 # ✅ Checklist Studio Sistemi Operativi 1
-*(30 settembre → 12 ottobre, domeniche OFF)*
+
+(30 settembre → 12 ottobre, domeniche OFF)
 
 ## Settimana 1
+
 - [ ] **Mar 30/09** – Architettura monoprocessore  
   - [ ] CPU e registri (utente, controllo, interni)  
   - [ ] Ciclo fetch/execute  
@@ -36,6 +38,7 @@
 ---
 
 ## Settimana 2
+
 - [ ] **Lun 06/10** – Thread  
   - [ ] ULT vs KLT (vantaggi/svantaggi)  
   - [ ] Operazioni: spawn, block, unblock, finish  
@@ -82,4 +85,3 @@
   - [ ] Journaling (fisico, logico, COW, log-structured)  
   - [ ] Inode in UNIX/Linux, tipi di file, permessi  
   - [ ] Mappe I/O + FS complete  
-
