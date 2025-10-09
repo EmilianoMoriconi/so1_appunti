@@ -136,6 +136,7 @@ Per ridurre l’uso di memoria, si utilizza la **Page Table multilivello**, che 
    ```plaintext
    [indice livello 1 | indice livello 2 | offset]
    ```
+
 2. Solo i livelli necessari vengono mantenuti in memoria (gli altri possono restare su disco).
 3. In sistemi a 64 bit, si usano fino a **4 o 5 livelli** di tabelle (es. x86-64 con PML4, PDPT, PD, PT).
 

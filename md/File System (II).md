@@ -91,7 +91,7 @@ Il sistema tiene una sola copia (o due per sicurezza) della tabella FAT all’in
 
 **Esempio:**
 
-```
+```text
 Blocco 5 → 9
 Blocco 9 → 13
 Blocco 13 → EOF
