@@ -1,0 +1,13 @@
+{
+  "markdown-pdf.styles": [
+    "${workspaceFolder}/pdf-style.css"
+  ],
+  "markdown-pdf.format": "A4",
+  "markdown-pdf.margin.top": "25mm",
+  "markdown-pdf.margin.bottom": "25mm",
+  "markdown-pdf.margin.right": "20mm",
+  "markdown-pdf.margin.left": "20mm",
+  "markdownlint.config": {
+    "MD024": false
+  }
+}

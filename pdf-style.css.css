@@ -1,0 +1,49 @@
+/* === Stile personalizzato appunti SO1 === */
+
+/* Font generale */
+body {
+  font-family: "Fira Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 11pt;            /* riduce la grandezza */
+  line-height: 1.25;          /* riduce interlinea */
+  color: #111;
+}
+
+/* Titoli */
+h1, h2, h3 {
+  font-family: "Fira Sans", "Segoe UI Semibold", sans-serif;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+}
+
+/* Paragrafi */
+p {
+  margin: 0.3em 0 0.6em 0;
+  text-align: justify;
+}
+
+/* Codice */
+code, pre {
+  font-family: "Fira Code", monospace;
+  font-size: 10pt;
+  background-color: #f8f8f8;
+  border-radius: 6px;
+}
+
+/* Tabelle */
+table {
+  border-collapse: collapse;
+  font-size: 10pt;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 4px 6px;
+}
+
+/* Liste */
+ul, ol {
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  padding-left: 1.2em;
+}
